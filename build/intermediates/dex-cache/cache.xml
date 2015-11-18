@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rachid\Desktop\Android_Claa\Project2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\rachid\Desktop\Android_Claa\Project2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-ee08bd89aa9d6d5e356aba27f74094ee12305218.jar" />
+    </item>
+    <item
+        jar="C:\Users\rachid\Desktop\Android_Claa\Project2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\rachid\Desktop\Android_Claa\Project2\app\build\intermediates\pre-dexed\debug\classes-80c63c5e96c41e46a36b25f1d58156a597a442db.jar" />
+    </item>
+    <item
+        jar="C:\Users\rachid\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\rachid\Desktop\Android_Claa\MortgageCalculator\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-b4b288176c23ff4c0770a38791ef0ec533e41ad3.jar" />
+    </item>
+    <item
+        jar="C:\Users\rachid\Desktop\Android_Claa\MortgageCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\rachid\Desktop\Android_Claa\MortgageCalculator\app\build\intermediates\pre-dexed\debug\classes-15cc8cb619fb786021f0d9b9bab081bf1561c9aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\rachid\Desktop\Android_Claa\MortgageCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\rachid\Desktop\Android_Claa\MortgageCalculator\app\build\intermediates\pre-dexed\debug\classes-f336f7cc1863625ed3fe964dda7614ffcb1d41a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\rachid\Desktop\Android_Claa\Project2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\rachid\Desktop\Android_Claa\Project2\app\build\intermediates\pre-dexed\debug\classes-a96339252aadff223f9bff9f64298fd4af98e486.jar" />
+    </item>
+    <item
+        jar="C:\Users\rachid\Desktop\Android_Claa\MortgageCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\rachid\Desktop\Android_Claa\MortgageCalculator\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f4bbf34836e47f54e767d71b7b7b1b6cc8736857.jar" />
+    </item>
+
+</items>
